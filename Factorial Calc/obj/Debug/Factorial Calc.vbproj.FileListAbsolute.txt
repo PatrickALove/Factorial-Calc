@@ -1,0 +1,16 @@
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.exe.config
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.exe
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.pdb
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.xml
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.vbprojAssemblyReference.cache
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial_Calc.frmFactorialCalculator.resources
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial_Calc.Resources.resources
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.vbproj.GenerateResource.cache
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.vbproj.CoreCompileInputs.cache
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.exe
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.xml
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.pdb
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.exe.manifest
+E:\Visual Basic\Factorial Calc\Factorial Calc\bin\Debug\Factorial Calc.application
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.exe.manifest
+E:\Visual Basic\Factorial Calc\Factorial Calc\obj\Debug\Factorial Calc.application
